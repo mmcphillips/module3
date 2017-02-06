@@ -1,0 +1,163 @@
+
+* {
+  box-sizing: border-box;
+}
+
+header
+{margin-top:0px;}
+h1 {
+  font-family: Impact, Charcoal, sans-serif;
+  color: #000000;
+  vertical-align: center;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+
+body {
+  
+  background-color: #FEF5CA;
+  text-align:center;
+  vertical-align: center;
+
+
+}
+
+  @media screen and (max-width: 768px) {
+    body { padding-top: 0px; }
+}
+
+
+}
+
+p {
+  padding-right:5px;
+  padding-left:5px;
+
+  background-color: #4D8C7A;
+
+
+}
+
+.container {
+  border: none;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:FFC46A;
+
+}
+
+.navbar-fixed-top {
+  
+
+}
+section {
+  border: 1px solid black;
+  background-color: #FFC46A;
+  width: 100%;
+  height: auto;
+  color: black;
+  position: relative;
+  overflow: auto;
+
+}
+
+#chicken {
+  border: 1px solid black;
+  text-align: center;
+  width: 30%;
+  margin-left: 70%;
+  font-family: Impact;
+  font-size: 125%;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding: 5px;
+  background-color: #FF9900;
+}
+
+#beef {
+  border: 1px solid black;
+  text-align: center;
+  width: 30%;
+  margin-left: 70%;
+  font-family: Impact;
+  font-weight: bold;
+  font-size: 125%;
+  margin-bottom: 0;
+  margin-top: 0;
+  padding: 5px;
+  background-color: #0065B2;
+}
+
+#sushi {
+  border: 1px solid black;
+  text-align: center;
+  width: 30%;
+  margin-left: 70%;
+  font-family: Impact;
+  font-weight: bold;
+  font-size: 125%;
+  background-color: #0091FF;
+  color: black;
+  padding: 5px;
+}
+
+#chicken-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#beef-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#sushi-div {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+
+
+#header-nav {
+  border: 0;
+  color: #red;
+  margin-top:0px;
+  background-color: #00FFE2;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #61122f;
+  text-align:center;
+
+
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: 0px;
+  background-color: yellow;
+
+}
+
+.nav-header {
+  background-color: #yellow;
+}
+
+.nav-brand {
+  color: #00FFE2;
+  font-size: 1.5em;
+  margin-bottom:0px;
+}
+
+#nav-list {
+  color: #00FFE2;
+  background-color: #FFC46A;
+
+}
+
+hr {
+  border-color: FFC46A;
+}
+
+
+
